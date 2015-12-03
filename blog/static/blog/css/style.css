@@ -1,0 +1,11 @@
+h1 {
+  color: yellow;
+}
+li a {
+    color: yellow;
+}
+
+body {
+    -webkit-background-size: url("../images/bg.jpg") 100%;
+    background: black url("../images/bg.jpg") no-repeat right bottom;
+}
